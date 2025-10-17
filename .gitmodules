@@ -2,3 +2,7 @@
 	path = repos/AvrahamRaviv
 	url = https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew
 	branch = main
+[submodule "repos/EbookFoundation"]
+	path = repos/EbookFoundation
+	url = https://github.com/EbookFoundation/free-programming-books/
+	branch = main
