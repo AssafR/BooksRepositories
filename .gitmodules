@@ -1,0 +1,4 @@
+[submodule "repos/AvrahamRaviv"]
+	path = repos/AvrahamRaviv
+	url = https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew
+	branch = main
